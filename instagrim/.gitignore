@@ -4,4 +4,5 @@ api/user.db
 api/vendor
 api/glide.lock
 .vscode/
-*/node_modules/
+api/node_modules
+ui/node_modules
